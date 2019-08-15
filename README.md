@@ -1,4 +1,9 @@
 # laravel-react
 
-//run the create db command
-#php artisan db:create
+## To setup run this commands ##
+
+* php artisan db:create
+* php artisan migrate
+* php artisan db:seed
+* php artisan db serve
+
