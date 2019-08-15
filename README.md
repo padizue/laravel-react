@@ -1,6 +1,8 @@
 # laravel-react
+cd to the project folder
 
-## To setup run this commands ##
+Then :
+##  run this commands ##
 
 * php artisan db:create
 * php artisan migrate
